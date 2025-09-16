@@ -56,6 +56,6 @@ body {
 }
 
 .calculator span.equal {
-  background: rgb(255, 163, 26);
-  /* background: #03b1ff; */
+  background: rgb(221, 160, 221);
+  /* background: #dda0dd; */
 }
